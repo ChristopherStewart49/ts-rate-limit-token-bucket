@@ -1,0 +1,17 @@
+{
+  "name": "ts-rate-limit-token-bucket",
+  "version": "0.1.0",
+  "description": "Token bucket limiter reporting availability and wait time per request",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {}
+}

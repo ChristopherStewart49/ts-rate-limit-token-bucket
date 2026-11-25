@@ -1,6 +1,6 @@
 {
   "name": "ts-rate-limit-token-bucket",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Token bucket limiter reporting availability and wait time per request",
   "type": "module",
   "main": "src/index.js",
